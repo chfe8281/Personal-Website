@@ -1,0 +1,73 @@
+1:
+Make an html page with title "Home" , a header "About me", an open paragraph with header 2 "description", a 
+link to CSCI3308/lab-3-gui-development-chfe8281/submission/views/resume.html named "Resume" 
+below the description, and an open image tag where the image goes to the left of the description filling up the left half of the page.
+
+2: 
+Add a navigation bar at the top of the page with links to CSCI3308/lab-3-gui-development-chfe8281/submission/views/home.html named "Home", 
+CSCI3308/lab-3-gui-development-chfe8281/submission/views/projects.html named "Projects", 
+CSCI3308/lab-3-gui-development-chfe8281/submission/views/hobbies.html named "Hobbies", and 
+CSCI3308/lab-3-gui-development-chfe8281/submission/views/resume.html named "Resume"
+
+
+3: 
+Make an html page titled Hobbies with a Grid similar to Bootstrap's with an image on each tile, a title, and paragraph description. 
+Make four total tiles in the grid.
+
+4: 
+Make an html page with a carousel modeled after Bootstrap's with controls and room for 4 slides. 
+Each slide has an image, a title, and a paragraph description. Make a separate CSS file.
+
+5: 
+Make an HTML page with this copied resume document using tables.
+CHRISTINA FERNANDEZ	
+(970) 219-8911 | ninaffb2004@gmail.com | www.linkedin.com/in/christina-fernandez-6b86622b1
+
+PROFILE
+                          
+I am a skilled programmer experienced with Object-Oriented programming along with several data structures. I have experience collaborating in GitHub and using Git for version control. I have strong critical thinking skills gained through proof-based classes.
+
+EDUCATION                                                                                                                                                                                                           University of Colorado Boulder                                                                                                                                                                 2022 - Now                             General Mathematics -  BA    GPA 3.88  
+Computer Science - BA  GPA 4.00                                                                                                                                                                                  Minor: Music                                                                                                                                                                                                                        Honors Student    
+
+RELEVANT COURSEWORK
+
+Starting Computing (C++) - A
+Data Structures (C++) - A
+Introduction to Computational Thinking (Python) - A
+Analysis - A
+Abstract Algebra - A
+Discrete Structures - B+
+
+
+Combinatorics - A
+Software Development Methods and Tools - Currently A
+Computer Systems (C) - Currently A
+
+PROJECTS       
+Odyssey Game                                                                                                                                                                                                                                      I developed  a two-player board-game using C++. I customized the game by adding a new tile that generated a random anagram for the player to solve.. I implemented two classes and two structs.
+
+File System Simulation                                               
+A partner and I developed  a Linux file system simulation in C++. We stored files and directories in an n-ary tree data structure and a hash table, as well as built functions for Linux commands. We collaborated on this project with GitHub and git version control.
+
+WORK EXPERIENCE                                                                                                                                                                                             Learning Assistant                                                                                                                                                                                                   University of Colorado Boulder                                                                                                                             January 2023 - December 2023                                                     I was a learning assistant at the University of Colorado Boulder for Calculus 2 in Spring of 2023 and Calculus 1 in the Fall of 2023. I assisted students in recitations and collaborated with TAs and other faculty during weekly SIGMI meetings.                              
+
+Mathematics Tutor                                                                                                                                                                                              University of Colorado Boulder                                                                                                                                       January 2024 - May 2024                           I worked as an hourly tutor in the Mathematics Academic Resource Center at the University of Colorado Boulder.
+
+Course Assistant
+University of Colorado Boulder                                                                                                                                                  January 2024 - Now
+I am currently working as a Course Assistant at the University of Colorado Boulder. I am assisting a Data Structures course by supporting a TA in recitations, holding office hours, and answering student questions on their online discussion board Piazza.
+
+SKILLS
+C++
+Python
+MySQL
+MATLAB
+LaTeX
+Linux
+Organized
+Detail Oriented
+Fluent in Spanish
+Collaborative Problem Solving
+Critical Thinking
+Adaptable
