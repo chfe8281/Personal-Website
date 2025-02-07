@@ -1,4 +1,4 @@
-navbar {
+.navbar {
     display: flex; /* Use Flexbox for proper alignment */
     justify-content: space-between; /* Pushes content apart */
     align-items: center; /* Centers items vertically */
