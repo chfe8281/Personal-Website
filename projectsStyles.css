@@ -19,6 +19,7 @@
 .navbar-image {
     margin-left: auto; /* Pushes icon to the right */
     height: 30px;
+    margin-right:0.5%;
 }
 
 body { 
