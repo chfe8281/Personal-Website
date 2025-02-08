@@ -1,5 +1,5 @@
 .navbar {
-    display: flexbox; /* Use Flexbox for proper alignment */
+    position: relative;/* Use Flexbox for proper alignment */
     justify-content: space-between; /* Pushes content apart */
     align-items: center; /* Centers items vertically */
     background-color: lightblue;
