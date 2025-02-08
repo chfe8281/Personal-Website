@@ -35,6 +35,13 @@ body {
 .image {
     flex: 1;
 }
+.grid-container {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill, 250px);
+    justify-content: center;
+}
+
 .Description {
     width: 65%; 
     background-color:#f4f4f4;
