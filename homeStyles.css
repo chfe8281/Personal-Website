@@ -1,9 +1,11 @@
 .navbar {
-    display: flex; /* Use Flexbox for proper alignment */
+    display:flex;/* Use Flexbox for proper alignment */
+    position: relative;
     justify-content: space-between; /* Pushes content apart */
     align-items: center; /* Centers items vertically */
     background-color: lightblue;
     padding: 10px 20px; /* Adds some spacing */
+    flex-wrap: nowrap;
 }
 .navbar a {
     text-decoration: none;
